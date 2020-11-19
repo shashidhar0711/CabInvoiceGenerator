@@ -48,7 +48,7 @@ namespace CabInvoiceGenerator
         }
 
         /// <summary>
-        /// Calculates the fare.
+        /// Calculates the fare
         /// </summary>
         /// <param name="distance">The distance.</param>
         /// <param name="time">The time.</param>
