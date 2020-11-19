@@ -5,7 +5,7 @@ using System.Text;
 namespace CabInvoiceGenerator
 {
     /// <summary>
-    /// Ride Class to Set Data For Particular Ride
+    /// Ride Class to Set Data For Particular Ride.
     /// </summary>
     public class Ride
     {
