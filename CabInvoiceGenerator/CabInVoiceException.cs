@@ -11,7 +11,7 @@ namespace CabInvoiceGenerator
     public class CabInVoiceException : Exception
     {
         /// <summary>
-        /// Enum For Exception Type
+        /// Enum For Exception Type.
         /// </summary>
         public enum ExceptionType
         {
