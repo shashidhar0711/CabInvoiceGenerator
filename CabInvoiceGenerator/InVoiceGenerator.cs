@@ -16,7 +16,7 @@ namespace CabInvoiceGenerator
         private readonly double MINIMUM_FARE;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="InVoiceGenerator"/> class.
+        /// Initializes a new instance of the <see cref="InVoiceGenerator"/> class
         /// </summary>
         /// <param name="rideType">Type of the ride.</param>
         /// <exception cref="CabInVoiceException">Invalid ride type</exception>

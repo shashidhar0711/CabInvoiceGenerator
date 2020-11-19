@@ -8,6 +8,7 @@ namespace CabInvoiceGeneratorTest
         InVoiceGenerator inVoiceGenerator = null;
 
         /// <summary>
+        /// Test Case UC1
         /// Givens the distance and time should return total fare.
         /// </summary>
         [Test]
