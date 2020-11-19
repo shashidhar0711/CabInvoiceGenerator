@@ -14,7 +14,7 @@ namespace CabInvoiceGeneratorTest
         [Test]
         public void GivenDistanceAndTimeShouldReturnTotalFare()
         {
-            /// Creating Instance of InvoiceGenerator For Normal Ride
+            /// Creating Instance of InvoiceGenerator For Normal Ride.
             inVoiceGenerator = new InVoiceGenerator(RideType.NORMAL);
             double distance = 2.0;
             int time = 5;

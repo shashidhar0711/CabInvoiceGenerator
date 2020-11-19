@@ -17,7 +17,7 @@ namespace CabInvoiceGenerator
         }
 
         /// <summary>
-        /// Adds the ride.
+        /// Adds the ride
         /// </summary>
         /// <param name="userId">The user identifier.</param>
         /// <param name="rides">The rides.</param>

@@ -5,7 +5,7 @@ using System.Text;
 namespace CabInvoiceGenerator
 {
     /// <summary>
-    /// Enum For Class Type
+    /// Enum For Class Type.
     /// </summary>
     public enum RideType
     {
